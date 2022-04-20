@@ -1,5 +1,10 @@
-#  Hey, I'm Stuart  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey! I'm Stuart 👋🏿
 
-I'm an outcome-oriented Software Developer and Technical Writer that loves to create and share useful content about computer science & the web. I create technical content (on [Hashnode](https://hashnode.com/@stuartcodes) and [Dev.to](https://dev.to/stuartmuyambi)), build useful open-source projects, speak at some meetups/conferences and build technical communities. You can also find me on [Twitter](https://twitter.com/stuartmuyambi)
+I'm a Software Engineer specializing in JavaScript full-stack technologies. I create technical content mostly about Web Development and JavaScript, but I also talk about other topics. I also speak at some meetups/conferences and build useful open-source projects. Show some ❤️ by reviewing my pull requests, contributing to some of my open-source repositories or even leaving a ⭐ if you like a project!
 
- Show some ❤️ by reviewing my pull requests, contributing to some of my open-source repositories or even leaving a ⭐ if you like a project!
+### Useful Links
+* [Twitter](https://twitter.com/stuartmuyambi)
+* [Instagram](https://instagram.com/stuartmuyambi)
+* [LinkedIn](https://linkedin.com/in/stuartmuyambi)
+* [Dev.to](https://dev.to/stuartmuyambi)
+* [Hashnode](https://hashnode.com/@stuartmuyambi)
