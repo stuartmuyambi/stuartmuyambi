@@ -7,7 +7,7 @@ I also speak at some meetups, conferences and build useful open-source projects.
 Where my contribution graph is blank, it's probably because I was on vacation, caring for my family or lifting weights. (Or perhaps I was working with a client or project in some internal capacity.) Life is short. Enjoy it!
 
 ### Useful links
-* [Twitter](https://twitter.com/stuartmuyambi)
+* [X](https://twitter.com/stuartmuyambi)
 * [Instagram](https://instagram.com/stuartmuyambi)
 * [LinkedIn](https://linkedin.com/in/stuartmuyambi)
 * [Hashnode](https://hashnode.com/@stuartmuyambi)
