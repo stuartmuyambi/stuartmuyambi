@@ -1,14 +1,15 @@
 # Hey! I'm Stuart 👋🏿
 
-I'm a software engineer mainly focusing on full-stack JavaScript web technologies. I love to create and share useful technical content mostly about computer science and web development.
+I'm a software enthusiast diving deep into full-stack JavaScript web technologies. I love creating and sharing useful technical content, mostly about computer science and web development.
 
-I also build useful open-source projects. Show some ❤️ by reviewing my pull requests, contributing to some of my open-source repositories or even leaving a ⭐ if you like a project!
+During my university days, I built an online voting system and a hospital management system using vanilla PHP. Now, I'm focusing on learning JavaScript, React, Node.js, and MongoDB, with a keen interest in adding a touch of AI to my projects.
 
-Where my contribution graph is blank, it's probably because I was on vacation or perhaps I was working with a client or project in some internal capacity Life is short. Enjoy it!
+I also enjoy building open-source projects. Show some ❤️ by reviewing my pull requests, contributing to my repositories, or leaving a ⭐ if you like a project!
+
+When my contribution graph is blank, it probably means I was on vacation, working with a client, or engaged in an internal project. Life is short; enjoy it!
 
 ### Useful links
 * [X](https://x.com/stuartmuyambi)
 * [Instagram](https://instagram.com/stuartmuyambi)
-* [LinkedIn](https://linkedin.com/in/stuartmuyambi)
 * [Hashnode](https://hashnode.com/@stuartmuyambi)
 * [Dev.to](https://dev.to/stuartmuyambi)
