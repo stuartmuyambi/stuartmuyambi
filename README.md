@@ -1,8 +1,8 @@
 # Hey! I'm Stuart 👋🏿
 
-I'm a software enthusiast diving deep into full-stack JavaScript web technologies. I love creating and sharing useful technical content, mostly about computer science and web development.
+I'm a software enthusiast diving deep into full-stack JavaScript web technologies. I love creating and sharing useful technical content, mostly about web development, Accesibility and Performance.
 
-During my university days, I built an online voting system and a hospital management system using vanilla PHP. Now, I'm focusing on learning JavaScript, React, Node.js, and MongoDB, with a keen interest in adding a touch of AI to my projects.
+Now, I'm focusing on learning JavaScript with a keen interest in adding a touch of AI to my projects.
 
 I also enjoy building open-source projects. Show some ❤️ by reviewing my pull requests, contributing to my repositories, or leaving a ⭐ if you like a project!
 
